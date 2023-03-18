@@ -1,0 +1,6 @@
+pipelines {
+  agent any
+  stages{
+  stage(clone){
+  }
+}
