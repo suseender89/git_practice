@@ -4,4 +4,4 @@ pipelines {
   stage(clone){
   
   stag:wqe}
-}
+hdhdh}
