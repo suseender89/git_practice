@@ -2,5 +2,6 @@ pipelines {
   agent any
   stages{
   stage(clone){
-  }
+  
+  stag:wqe}
 }
